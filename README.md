@@ -1,5 +1,6 @@
 # Philip Goes Bananas
 ### In order to run the game, you need the Python Version 3.4.4 and the Pygame Version 1.9.2!
+#### http://github.com - automatic!
 
 
 ## Game Play Instructions
