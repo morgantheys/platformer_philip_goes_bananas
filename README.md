@@ -3,7 +3,7 @@
 #### https://github.com/morgantheys/platformer_philip_goes_bananas.git
 
 
-## Game Play Instructions
+## Game Play Instructions 
 ### To go fowards press the right arrow key, to go backwards press the left arrow key, and to jump press the up arrow key. The goal of Philip Goes Bananas is to make it to the flag at the end of each of the 8 levels while collecting as many bananas, hearts, stars, and exclamation points as possible. However, while you are collecting all of those positive coins, be sure to watch out for the banana peels, dinosaurs, and sharks. It is possible to kill the sharks and dinosaurs by jumping directly on top of them. Be sure to watch out for the black holes in the game, if you see that there are no tiles on the ground, then you need to watch out! Falling through those black holes will cause you to have to re-start the enire game over again.
 ![Black Holes](black_holes.PNG)
 
