@@ -1,6 +1,6 @@
 # Philip Goes Bananas
 ### In order to run the game, you need the Python Version 3.4.4 and the Pygame Version 1.9.2!
-#### http://https://github.com/morgantheys/platformer_philip_goes_bananas.git.com 
+#### https://github.com/morgantheys/platformer_philip_goes_bananas.git.com 
 
 
 ## Game Play Instructions
