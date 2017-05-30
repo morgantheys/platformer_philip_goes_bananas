@@ -1,0 +1,60 @@
+{
+	"name": "Jungle 4",
+	"width": 60,
+	"height": 10,
+	"kind": "normal",
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/bg_jungle.png",
+	"background-position": "top",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/jungle3.wav",
+	"start": [1, 0],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [[57, 9, "TM"], [58, 9, "TM"], [59, 9, "TM"],
+
+						 [1, 1, "TM"],
+
+             [1, 5, "TM"],
+
+						 [3, 3, "WT"], [4, 3, "WT"], [5, 3, "WT"], [6, 3, "WT"], [7, 3, "WT"],
+
+						 [9, 5, "TM"], [10, 5, "TM"], [11, 5, "TM"],
+
+						 [13, 7, "TM"],
+
+						 [15, 5, "WT"], [16, 5, "WT"], [17, 5, "WT"], [18, 5, "WT"], [19, 5, "WT"],
+
+						 [21, 3, "TM"], [22, 3, "TM"], [23, 3, "TM"],
+
+						 [25, 1, "WT"], [26, 1, "WT"], [27, 1, "WT"], [28, 1, "WT"], [29, 1, "WT"],
+
+						 [31, 3, "TM"], [32, 3, "TM"],
+
+						 [34, 5, "WT"], [35, 5, "WT"], [36, 5, "WT"], [37, 5, "WT"], [38, 5, "WT"],
+
+						 [40, 3, "TM"], [41, 3, "TM"], [42, 3, "TM"], [43, 3, "TM"],
+
+						 [45, 5, "WT"], [46, 5, "WT"], [47, 5, "WT"], [48, 5, "WT"], [49, 5, "WT"],
+
+						 [51, 3, "TM"],
+
+             [53, 1, "TM"],
+
+             [55, 3, "TM"]],
+
+	"bears": [],
+	"monsters": [[3, 2], [15, 4], [25, 0], [34, 4], [45, 4]],
+  "coins": [[6, 2], [19, 4], [42, 2], [53, 0]],
+	"negative_coins": [[10, 4], [26, 0], [37, 4], [55, 2]],
+	"star_coins": [[31, 2]],
+	"death_coins": [],
+	"oneups": [[1, 4]],
+	"hearts": [[22, 2], [48, 4]],
+	"flag": [[58, 5], [58, 6], [58, 7], [58, 8]]
+}
