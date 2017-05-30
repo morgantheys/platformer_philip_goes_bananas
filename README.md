@@ -7,7 +7,7 @@
 ![Black Holes](black_holes.png)
 
 ## Points, Hearts,and Lives
-![Black Holes](black_holes.png)
+![Different Points](philip_diferent_points.png)
 * Bananas: increase your score by 2 points.
 * Banana Peels: decrease your score by 1 point.
 * Stars: increase your score by 10 points.
